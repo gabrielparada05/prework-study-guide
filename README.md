@@ -25,7 +25,7 @@ A screenshot is available inside the assets folder.
 
 Thank you to UofT Coding Bootcamp Team for providing everything I need to build this Guide. 
 
-## License
+## License 
 
 Please refer to the License in the repo.
 
@@ -38,3 +38,4 @@ You can contribute to this Guide through https://github.com/gabrielparada05/prew
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+//
